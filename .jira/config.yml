@@ -1,5 +1,4 @@
-version: 2.0
-services:
-  - id: "⁠b:YXJpOmNsb3VkOmdyYXBoOjpzZXJ2aWNlLzkzMmYzMWQxLTk5OWItNDQ2Ny04YjE3LWU3YjNjN2M5MjE4Yy84MzQzNzUzOS1hZjNiLTRhZjMtODU1NS1hNDMxNzRhY2I1NDM="
-    deployments:
-      deploymentGating: enabled
+deployments:
+  services:
+    ids:
+    - b:YXJpOmNsb3VkOmdyYXBoOjpzZXJ2aWNlLzkzMmYzMWQxLTk5OWItNDQ2Ny04YjE3LWU3YjNjN2M5MjE4Yy81MGFjODk0Zi0xNGRiLTQyY2ItYWQxNy1iNjU1ZjBiNTAwMGE=
